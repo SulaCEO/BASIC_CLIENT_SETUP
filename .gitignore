@@ -21,6 +21,7 @@ node_modules
 #.pnp.*
 
 # Testing
+__tests__
 coverage
 
 # Production
